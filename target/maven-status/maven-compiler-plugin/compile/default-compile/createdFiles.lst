@@ -10,6 +10,7 @@ com/portafolio/Portafolio/controller/Controller.class
 com/portafolio/Portafolio/service/SProyecto.class
 com/portafolio/Portafolio/service/SExperiencia.class
 com/portafolio/Portafolio/service/SCarrusel.class
+com/portafolio/Portafolio/WebConfig.class
 com/portafolio/Portafolio/entity/Carrusel.class
 com/portafolio/Portafolio/controller/CCarrusel.class
 com/portafolio/Portafolio/service/SSkill.class
