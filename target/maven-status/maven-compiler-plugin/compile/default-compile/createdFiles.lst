@@ -10,7 +10,6 @@ com/portafolio/Portafolio/controller/Controller.class
 com/portafolio/Portafolio/service/SProyecto.class
 com/portafolio/Portafolio/service/SExperiencia.class
 com/portafolio/Portafolio/service/SCarrusel.class
-com/portafolio/Portafolio/WebConfig.class
 com/portafolio/Portafolio/entity/Carrusel.class
 com/portafolio/Portafolio/controller/CCarrusel.class
 com/portafolio/Portafolio/service/SSkill.class
@@ -19,6 +18,7 @@ com/portafolio/Portafolio/PortafolioApplication.class
 com/portafolio/Portafolio/repository/RPersona.class
 com/portafolio/Portafolio/controller/CSkill.class
 com/portafolio/Portafolio/repository/RProyecto.class
+WebConfig.class
 com/portafolio/Portafolio/controller/CProyecto.class
 com/portafolio/Portafolio/repository/REstudios.class
 com/portafolio/Portafolio/controller/CEstudios.class
