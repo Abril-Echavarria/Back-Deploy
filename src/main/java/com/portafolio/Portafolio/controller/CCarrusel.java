@@ -19,7 +19,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping ("carrusel")
 //@CrossOrigin(origins="http://localhost:4200/")
-@CrossOrigin(origins="https://portafolioabrile.web.app")
+@CrossOrigin(origins={"https://portafolioabrile.web.app",
+        "https://portafolioabrile.firebaseapp.com"})
 public class CCarrusel {
     
     @Autowired
